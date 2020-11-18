@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FarmerToCustomerManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FarmerToCustomerManagementSystem_jar</output-path>
+    <root id="archive" name="FarmerToCustomerManagementSystem.jar">
+      <element id="module-output" name="FarmerToCustomerManagementSystem" />
+      <element id="extracted-dir" path="H:/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FarmerToCustomerManagementSystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04700307-76ce-474d-b085-4056b8fc447b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FarmerToCustomerManagementSystem" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ww6emRYHxvBRZ8ctHyyon9HUOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FarmerToCustomerManagementSystem.Main" />
+      <module name="FarmerToCustomerManagementSystem" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FarmerToCustomerManagementSystem.Order" />
+      <module name="FarmerToCustomerManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FarmerToCustomerManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Profile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FarmerToCustomerManagementSystem.Profile" />
+      <module name="FarmerToCustomerManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FarmerToCustomerManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FarmerToCustomerManagementSystem.user" />
+      <module name="FarmerToCustomerManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FarmerToCustomerManagementSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.user" />
+        <item itemvalue="Application.Order" />
+        <item itemvalue="Application.Profile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04700307-76ce-474d-b085-4056b8fc447b" name="Default Changelist" comment="" />
+      <created>1580048407053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580048407053</updated>
+      <workItem from="1580048411648" duration="898000" />
+      <workItem from="1580054699006" duration="17097000" />
+      <workItem from="1580097498071" duration="13809000" />
+      <workItem from="1580116402539" duration="3810000" />
+      <workItem from="1580121643357" duration="1345000" />
+      <workItem from="1580133127221" duration="19817000" />
+      <workItem from="1580307737032" duration="1811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1580106026238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580106026238" />
+    <state x="395" y="138" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580122721821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="138" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580122721821" />
+    <state x="600" y="83" key="DetectedRootsChooserDialog" timestamp="1580071388614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="600" y="83" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580071388614" />
+    <state x="626" y="123" key="FileChooserDialogImpl" timestamp="1580122666709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="626" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580122666709" />
+    <state width="1286" height="179" key="GridCell.Tab.0.bottom" timestamp="1583420289526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583420289526" />
+    <state width="1286" height="179" key="GridCell.Tab.0.center" timestamp="1583420289526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583420289526" />
+    <state width="1286" height="179" key="GridCell.Tab.0.left" timestamp="1583420289526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583420289526" />
+    <state width="1286" height="179" key="GridCell.Tab.0.right" timestamp="1583420289526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583420289526" />
+    <state width="1323" height="260" key="GridCell.Tab.1.bottom" timestamp="1580309962441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="260" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580309962441" />
+    <state width="1323" height="260" key="GridCell.Tab.1.center" timestamp="1580309962441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="260" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580309962441" />
+    <state width="1323" height="260" key="GridCell.Tab.1.left" timestamp="1580309962441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="260" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580309962441" />
+    <state width="1323" height="260" key="GridCell.Tab.1.right" timestamp="1580309962441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="260" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580309962441" />
+    <state x="145" y="12" width="1040" height="670" key="SettingsEditor" timestamp="1583420134374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="145" y="12" width="1040" height="670" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583420134374" />
+    <state x="435" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1583647518341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="218" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583647518341" />
+    <state x="65" y="0" key="new project wizard" timestamp="1583647634108">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583647634108" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1580101488442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580101488442" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1580101337213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580101337213" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FarmerToCustomerManagementSystem$Main.ic" NAME="Main Coverage Results" MODIFIED="1580064377933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
